@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "948304105473",
+    "firebase_url": "https://theta-cell-343416-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "theta-cell-343416",
+    "storage_bucket": "theta-cell-343416.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948304105473:android:670037506ac39b0a147000",
+        "android_client_info": {
+          "package_name": "com.ducku.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLQAjBOue2u1ISeI5LbMz43z0kH_7WseI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
